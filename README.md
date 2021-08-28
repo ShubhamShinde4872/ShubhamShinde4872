@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShubhamShinde4872
 - 👀 I’m interested in Software Programming
 - 🌱 I’m currently learning MCA
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on software programming. 
 - 📫 How to reach me ...
 
 <!---
